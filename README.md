@@ -15,5 +15,5 @@ I also provide some basic scripts for visualizing students’ hourly activity co
 
 ## Funding
 
-This workshop is supported by the National Science Foundation grant, Investigating Virtual Learning Environments (DUE# 1535300).
+This work is supported by the National Science Foundation grant, Investigating Virtual Learning Environments (DUE# 1535300).
 
