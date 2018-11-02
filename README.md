@@ -7,7 +7,7 @@ The <b>Canvas-API-Click-Extraction.ipynb</b> Jupyter Notebook provides the step-
 
 I also provide some basic scripts for visualizing students’ hourly activity counts. 
 
-
+![alt text](https://github.com/FernandoUCI/Canvas-API-Clicks/blob/master/images/chem1c_allclicks.png)
 
 ## Author
 
